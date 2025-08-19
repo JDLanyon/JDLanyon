@@ -1,5 +1,8 @@
-![banner](images/GlowingBanner.gif)
+![banner](images/OceanBanner.png)
 
-<p align="center" style="font-family: 'Poppins';">
-    <a href="https://jdlanyon.github.io/" target="_blank" style="color: inherit;">Programming is an artform.</a>
-</p>
+<h3 align="center" style="font-family: 'Poppins';">
+    <a href="https://jdlanyon.github.io/" target="_blank">programming is an artform</a>
+</h3>
+<br/>
+
+![banner2](images/GlowingBanner.gif)
